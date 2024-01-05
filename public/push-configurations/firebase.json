@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tagaxi",
+  "private_key_id": "456d6ff2db0f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-admiceaccount.com",
+  "client_id": "112678902284",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.google.gserviceaccount.com"
+}
